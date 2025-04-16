@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Миграции, если не нужно их коммитить
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# IDE и редакторы
+.vscode/
+.idea/
+
+# macOS системные файлы
+.DS_Store
+
+# dotenv-файлы
+.env
+.env.*
+
+# Тесты и отчёты
+.coverage
+coverage.xml
+htmlcov/
+nosetests.xml
+test_db.sqlite3
+*.mo
+
+# Сборка/дистрибуция
+build/
+dist/
+*.egg-info/
+
+# Конфликты Git
+*.orig
+
+# Файлы Jupyter
+*.ipynb_checkpoints
