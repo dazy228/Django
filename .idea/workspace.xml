@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87568551-bda3-4f90-8a99-b59ccd22f909" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/deteil.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +19,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="tutor_5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,6 +37,7 @@
 }</component>
   <component name="ProjectId" id="2vpIrk8X9gDmhXsCCr6UQO07qCL" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -55,7 +54,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHELLCHECK.PATH": "/Users/admin/Library/Application Support/JetBrains/PyCharm2025.1/plugins/Shell Script/shellcheck",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "tutor__5.1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,8 +75,8 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
-        <env name="DJANGO_SETTINGS_MODULE" value="Django.settings" />
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Django.settings" />
         <env name="DJANGO_SECRET_KEY" value="django-insecure-0gya$#z8#1q(2svn$z!7(25+61+njn$(4xo$s3m+!as_qp0&amp;9^" />
       </envs>
       <option name="SDK_HOME" value="" />
