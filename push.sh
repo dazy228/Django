@@ -44,7 +44,6 @@ git merge "$current_branch"
 separator
 echo -e "${RED}🧹 Удаляем ветку $current_branch...${NC}"
 git branch -d "$current_branch"
-git push origin --delete "$current_branch"
 
 # Новая ветка
 separator
